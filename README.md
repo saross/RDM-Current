@@ -1,4 +1,8 @@
-# A Beamer Theme for Macquarie University
+Evolving presentation about the context of the Research Data Management standards being developed at Macquarie University.
+
+---
+
+A Beamer Theme for Macquarie University
 
 Forked from [Metropolis](https://github.com/matze/mtheme)
 
